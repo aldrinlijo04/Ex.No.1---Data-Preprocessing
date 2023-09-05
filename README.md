@@ -33,6 +33,10 @@ Splitting the data into test and train
 
 ## PROGRAM:
 ```
+Name: Aldrin Lijo J E
+Reg NO: 212222240007
+```
+```
 #importing libraries
 import pandas as pd
 import io
